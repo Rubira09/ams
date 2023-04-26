@@ -1,0 +1,1 @@
+var $configuracao={"id":"curso-creator4all-12--avaliacao-final-envie-sua-aula-criada","titulo":"Curso Creator4all - 12 – Avaliação Final - Envie sua Aula Criada","conteudo":["76230","85254"],"tentativas":"2","texto-maiusculo":"false","imports":["conteudo/76230/conteudo.js","conteudo/85254/conteudo.js"],"relatorio-detalhado":"true","enviar-email-relatorio":"true"}

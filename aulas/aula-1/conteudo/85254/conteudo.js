@@ -1,0 +1,1 @@
+conteudos.push({"id":"85254","tipo":"enviar-arquivos","conteudo":[{"tipo":"texto","dados":{"html":"Envie a seguir a sua aula criada em formato ZIP.<p></p>","narracao":""}}],"configuracao":{"limite":"1","formatos":{"imagens":"false","documentos":"true","videos":"false","audios":"false","aula":"true"}}})
